@@ -8,13 +8,18 @@ import org.springframework.boot.test.context.SpringBootTest;
 class RabbitmqDirectConsumerApplicationTests {
 
     @Autowired
-    private Sender sender;
+    private UserSender userSender;
+    @Autowired
+    private OrderSender orderSender;
+    @Autowired
+    private ProductSender productSender;
     @Test
     void contextLoads() throws InterruptedException {
-        while (true){
-            Thread.sleep(1000);
-            sender.sendQueue("我能说啥呢");
-        }
+
+        userSender.sendQueue("用户：我能说啥呢");
+        orderSender.sendQueue("订单：我能说啥呢");
+        productSender.sendQueue("商品：我能说啥呢");
+
     }
 
 }
