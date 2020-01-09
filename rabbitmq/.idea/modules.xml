@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-direct-consumer/rabbitmq-direct-consumer.iml" filepath="$PROJECT_DIR$/rabbitmq-direct-consumer/rabbitmq-direct-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-direct-provider/rabbitmq-direct-provider.iml" filepath="$PROJECT_DIR$/rabbitmq-direct-provider/rabbitmq-direct-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-example/rabbitmq-example.iml" filepath="$PROJECT_DIR$/rabbitmq-example/rabbitmq-example.iml" />
+    </modules>
+  </component>
+</project>
