@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_activiti_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/voice_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_bean_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springbean_test/pom.xml" />
+        <option value="$PROJECT_DIR$/springdata_mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_asyn/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-circular-dependency/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

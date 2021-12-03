@@ -1,0 +1,19 @@
+spring:
+  codec:
+    max-in-memory-size: 10MB
+  main:
+    # 支持多个FeignClient同一个name的必要配置
+    allow-bean-definition-overriding: true
+  application:
+    name: wjx-test
+  cloud:
+    nacos:
+      config:
+        group: dev
+        server-addr: 192.168.0.183:8848
+        file-extension: yml
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health

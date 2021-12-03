@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-starter/demo-starter.iml" filepath="$PROJECT_DIR$/demo-starter/demo-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-circular-dependency/spring-circular-dependency.iml" filepath="$PROJECT_DIR$/spring-circular-dependency/spring-circular-dependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_bean_demo/spring_bean_demo.iml" filepath="$PROJECT_DIR$/spring_bean_demo/spring_bean_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbean_test/springbean_test.iml" filepath="$PROJECT_DIR$/springbean_test/springbean_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-learn.iml" filepath="$PROJECT_DIR$/.idea/springboot-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_activiti_demo/springboot_activiti_demo.iml" filepath="$PROJECT_DIR$/springboot_activiti_demo/springboot_activiti_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_aop/springboot_aop.iml" filepath="$PROJECT_DIR$/springboot_aop/springboot_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_asyn/springboot_asyn.iml" filepath="$PROJECT_DIR$/springboot_asyn/springboot_asyn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata_mongodb/springdata_mongodb.iml" filepath="$PROJECT_DIR$/springdata_mongodb/springdata_mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voice_demo/voice_demo.iml" filepath="$PROJECT_DIR$/voice_demo/voice_demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+org.springframework.context.ApplicationContextInitializer=\
+cn.wjx.proxy.config.StarterApplicationContextInitializer
+
+org.springframework.context.ApplicationListener=\
+cn.wjx.proxy.config.StarterApplicationListener

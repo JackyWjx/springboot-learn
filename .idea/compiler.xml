@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_asyn" />
+        <module name="springboot_aop" />
+        <module name="voice_demo" />
+        <module name="springdata_mongodb" />
+        <module name="spring-circular-dependency" />
+        <module name="spring_bean_demo" />
+        <module name="springbean_test" />
+        <module name="springboot_activiti_demo" />
+        <module name="demo-starter" />
+        <module name="proxy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-starter" target="1.8" />
+      <module name="flink_demo" target="1.8" />
+      <module name="kafka_demo" target="1.8" />
+      <module name="proxy" target="1.8" />
+      <module name="spring-circular-dependency" target="1.8" />
+      <module name="spring_bean_demo" target="1.8" />
+      <module name="spring_transactional" target="1.8" />
+      <module name="springbean_test" target="1.8" />
+      <module name="springboot_activiti_demo" target="1.8" />
+      <module name="springboot_aop" target="1.8" />
+      <module name="springboot_asyn" target="1.8" />
+      <module name="springdata_mongodb" target="1.8" />
+      <module name="voice_demo" target="1.8" />
+      <module name="volatile_demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo-starter" options="-parameters" />
+      <module name="flink_demo" options="-parameters" />
+      <module name="kafka_demo" options="-parameters" />
+      <module name="proxy" options="-parameters" />
+      <module name="spring-circular-dependency" options="-parameters" />
+      <module name="spring_bean_demo" options="-parameters" />
+      <module name="spring_transactional" options="-parameters" />
+      <module name="springbean_test" options="-parameters" />
+      <module name="springboot_activiti_demo" options="-parameters" />
+      <module name="springboot_aop" options="-parameters" />
+      <module name="springboot_asyn" options="-parameters" />
+      <module name="springdata_mongodb" options="-parameters" />
+      <module name="voice_demo" options="-parameters" />
+      <module name="volatile_demo" options="-parameters" />
+    </option>
+  </component>
+</project>
